@@ -1,0 +1,25 @@
+name: dpf-python
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - uproot
+  - pandas
+  - matplotlib
+  - iminuit
+  - scikit-learn
+  - numba
+  - dask
+  - python-graphviz
+  - cython
+  - pybind11
+  - root
+  - h5py
+  - pyarrow
+  - pip
+  - pip:
+      - pyjet
+      - particle
+      - pyhf
+      - root_numpy
+      - coffea
