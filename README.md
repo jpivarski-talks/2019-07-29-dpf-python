@@ -9,7 +9,7 @@ The preferred way to participate is to run the JupyterLab code with us, altering
 You can run all of these notebooks on a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski/2019-07-29-dpf-python/0.1?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/jpivarski/2019-07-29-dpf-python/0.2?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
