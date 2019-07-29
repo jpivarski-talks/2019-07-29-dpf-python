@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy<1.17.0        # technically fixed in awkward 0.12.4, but I don't want to rock the boat
+  - awkward==0.12.3     # before committing a lot of things; again, for safety
   - uproot
   - pandas
   - matplotlib
