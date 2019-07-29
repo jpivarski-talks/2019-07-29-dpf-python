@@ -8,3 +8,4 @@ global.lock
 mydask.png
 purge.lock
 worker-*
+output.root
